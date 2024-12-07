@@ -40,14 +40,6 @@ body {
     font-size: small;
 }
 
-/* .fondo-details{
-    background-image: url("/img/comic-fondo.jpg");
-    background-repeat: no-repeat;
-    background-position: center;  
-    background-size: cover;
-
-} */
-
 .marvel-text-container {
     background-color: rgba(166, 8, 0, 1);
     margin: 0 auto;
