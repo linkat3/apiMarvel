@@ -1,4 +1,4 @@
-let input = document.getElementById("input-box");
+input = document.getElementById("input-box");
 let button = document.getElementById("submit-button");
 let showContainer = document.getElementById("show-container");
 let characterList = document.querySelector(".character-list");
